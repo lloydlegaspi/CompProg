@@ -1,2 +1,2 @@
 # CompProg-1-Outputs
-This contains all my outputs in my course "Computer Programming 1" during my freshman year. We used C language, as according to the course currriculum.
+This contains all my outputs in my course "Computer Programming" during my freshman year. We used C language, as according to the course currriculum.
